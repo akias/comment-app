@@ -79,8 +79,7 @@ body {
   border: 1px solid #f1f1f1;
   padding: 20px;
 }
-
-/* 评论组件样式 */
+ /* 评论组件样式 */
 .comment {
   display: flex;
   border-bottom: 1px solid #f1f1f1;
@@ -88,17 +87,14 @@ body {
   padding-bottom: 10px;
   min-height: 50px;
 }
-
-.comment .comment-user {
+ .comment .comment-user {
   flex-shrink: 0;
 }
-
-.comment span {
+ .comment span {
   color: #00a3cf;
   font-style: italic;
 }
-
-.comment p {
+ .comment p {
   margin: 0;
   /*text-indent: 2em;*/
 }
